@@ -6,7 +6,7 @@ namespace Practice_1
 {
     class IntMathOperation : IMathOperation<int>
     {
- 
+
         public int Multiplay(int v1, int v2)
         {
             return v1 * v2;
