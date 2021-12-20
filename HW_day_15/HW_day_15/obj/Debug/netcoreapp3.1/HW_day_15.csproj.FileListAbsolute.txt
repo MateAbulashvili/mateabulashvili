@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\bin\Debug\netcoreapp3.1\HW_day_15.exe
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\bin\Debug\netcoreapp3.1\HW_day_15.deps.json
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\bin\Debug\netcoreapp3.1\HW_day_15.runtimeconfig.json
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\bin\Debug\netcoreapp3.1\HW_day_15.runtimeconfig.dev.json
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\bin\Debug\netcoreapp3.1\HW_day_15.dll
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\bin\Debug\netcoreapp3.1\HW_day_15.pdb
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\obj\Debug\netcoreapp3.1\HW_day_15.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\obj\Debug\netcoreapp3.1\HW_day_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\obj\Debug\netcoreapp3.1\HW_day_15.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\obj\Debug\netcoreapp3.1\HW_day_15.AssemblyInfo.cs
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\obj\Debug\netcoreapp3.1\HW_day_15.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\obj\Debug\netcoreapp3.1\HW_day_15.dll
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\obj\Debug\netcoreapp3.1\HW_day_15.pdb
+C:\Users\admin\source\repos\HW_day_15\HW_day_15\obj\Debug\netcoreapp3.1\HW_day_15.genruntimeconfig.cache
